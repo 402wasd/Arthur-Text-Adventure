@@ -6,4 +6,4 @@ A text-adventure thriller where you must interrogate the prime suspect for clues
         Run Arthur_Python2.py or Arthur_Python3.py
 
 ### Future Plans For The Project
-        Expanding this text engine and releasing a text adeventure engine for Python.
+Expanding this text engine and releasing a text adeventure engine for Python.
